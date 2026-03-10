@@ -49,14 +49,14 @@ Vercel / Netlify / GitHub Pages
 
 🌐 Live Demo
 
-🔗 https://your-nexus-studio-link.vercel.app
+🔗[ https://your-nexus-studio-link.vercel.app](https://69b05239d82a31791e1a3638--gleaming-phoenix-39ef83.netlify.app/)
 
 📂 Repository
 
 Source code available here:
 
-https://github.com/yourusername/nexus-studio
-⚙️ Installation & Setup
+[https://github.com/yourusername/nexus-studio
+](https://69b05239d82a31791e1a3638--gleaming-phoenix-39ef83.netlify.app/)⚙️ Installation & Setup
 
 Follow these steps to run the project locally.
 
@@ -71,8 +71,8 @@ npm run dev
 
 The application will be available at:
 
-http://localhost:3000
-📸 Screenshots
+[http://localhost:3000
+](https://69b05239d82a31791e1a3638--gleaming-phoenix-39ef83.netlify.app/)📸 Screenshots
 
 Add your project screenshots here.
 
