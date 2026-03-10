@@ -1,77 +1,98 @@
-# Welcome to your Lovable project
+🚀 Nexus Studio
 
-## Project info
+Nexus Studio is a modern digital media platform designed for creators to upload, explore, and manage multimedia content in a clean and interactive interface.
+It provides a seamless experience for discovering and sharing creative work such as images, videos, and digital projects.
 
-**URL**: https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
+✨ Features
 
-## How can I edit this code?
+Responsive Design – Works smoothly across desktop, tablet, and mobile devices.
 
-There are several ways of editing your application.
+Media Upload System – Upload and manage images, videos, and creative assets.
 
-**Use Lovable**
+Explore Section – Discover content shared by other creators.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and start prompting.
+User Authentication – Secure login and account management.
 
-Changes made via Lovable will be committed automatically to this repo.
+Interactive UI – Smooth transitions, hover effects, and intuitive navigation.
 
-**Use your preferred IDE**
+Fast Performance – Optimized loading and efficient media handling.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Creator Profiles – Showcase uploaded content in one place.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🛠 Tech Stack
 
-Follow these steps:
+Frontend
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+HTML5
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+CSS3
 
-# Step 3: Install the necessary dependencies.
-npm i
+JavaScript
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB / Firebase (depending on your setup)
+
+Styling
+
+Tailwind CSS / Custom CSS
+
+Deployment
+
+Vercel / Netlify / GitHub Pages
+
+🌐 Live Demo
+
+🔗 https://your-nexus-studio-link.vercel.app
+
+📂 Repository
+
+Source code available here:
+
+https://github.com/yourusername/nexus-studio
+⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+1️⃣ Clone the Repository
+git clone https://github.com/yourusername/nexus-studio.git
+2️⃣ Navigate to the Project Folder
+cd nexus-studio
+3️⃣ Install Dependencies
+npm install
+4️⃣ Start the Development Server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+The application will be available at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:3000
+📸 Screenshots
 
-**Use GitHub Codespaces**
+Add your project screenshots here.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🤝 Contributing
 
-## What technologies are used for this project?
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request.
 
-This project is built with:
+📜 License
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+This project is licensed under the MIT License.
 
-## How can I deploy this project?
+✅ How to add it on GitHub
 
-Simply open [Lovable](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and click on Share -> Publish.
+Go to your GitHub repo
 
-## Can I connect a custom domain to my Lovable project?
+Click README.md
 
-Yes, you can!
+Click Edit (✏️)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Paste this code
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-
-# ./tailwind-plus folder:
-
-The tailwind-plus folder contains tailwind components and themes to be used as inspiration for the project. DO NOT REMOVE THE FOLDER UNLESS SPECIFICALLY TOLD TO DO SO
+Click Commit Changes
