@@ -87,6 +87,3 @@ This project is licensed under the MIT License.
 
 ✅
 
-Paste this code
-
-Click Commit Changes
