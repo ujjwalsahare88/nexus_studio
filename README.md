@@ -85,13 +85,7 @@ Feel free to fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-✅ How to add it on GitHub
-
-Go to your GitHub repo
-
-Click README.md
-
-Click Edit (✏️)
+✅
 
 Paste this code
 
